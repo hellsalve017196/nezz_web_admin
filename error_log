@@ -1,0 +1,560 @@
+[26-Apr-2017 08:02:39 America/Chicago] PHP Warning:  include(templates\secure.php): failed to open stream: No such file or directory in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:02:39 America/Chicago] PHP Warning:  include(templates\secure.php): failed to open stream: No such file or directory in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:02:39 America/Chicago] PHP Warning:  include(): Failed opening 'templates\secure.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:02:39 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to include 'header'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 15
+[26-Apr-2017 08:03:22 America/Chicago] PHP Warning:  include(templates\secure.php): failed to open stream: No such file or directory in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:03:22 America/Chicago] PHP Warning:  include(templates\secure.php): failed to open stream: No such file or directory in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:03:22 America/Chicago] PHP Warning:  include(): Failed opening 'templates\secure.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:03:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to include 'header'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 15
+[26-Apr-2017 08:06:31 America/Chicago] PHP Warning:  include(templates\secure.php): failed to open stream: No such file or directory in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:06:31 America/Chicago] PHP Warning:  include(templates\secure.php): failed to open stream: No such file or directory in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:06:31 America/Chicago] PHP Warning:  include(): Failed opening 'templates\secure.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:06:31 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to include 'header'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 15
+[26-Apr-2017 08:09:20 America/Chicago] PHP Warning:  include(http://webadmin.subwaytalentapp.com/templates/secure.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:09:20 America/Chicago] PHP Warning:  include(): Failed opening 'http://webadmin.subwaytalentapp.com/templates/secure.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:13:26 America/Chicago] PHP Warning:  include(http://webadmin.subwaytalentapp.com/templates/secure.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:13:26 America/Chicago] PHP Warning:  include(): Failed opening 'http://webadmin.subwaytalentapp.com/templates/secure.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:15:30 America/Chicago] PHP Warning:  include(http://webadmin.subwaytalentapp.com/templates/secure.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:15:30 America/Chicago] PHP Warning:  include(): Failed opening 'http://webadmin.subwaytalentapp.com/templates/secure.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:15:36 America/Chicago] PHP Warning:  include(http://webadmin.subwaytalentapp.com/templates/secure.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 08:15:36 America/Chicago] PHP Warning:  include(): Failed opening 'http://webadmin.subwaytalentapp.com/templates/secure.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 09:55:54 America/Chicago] PHP Warning:  include(http://webadmin.subwaytalentapp.com/templates/secure.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 09:55:54 America/Chicago] PHP Warning:  include(): Failed opening 'http://webadmin.subwaytalentapp.com/templates/secure.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php on line 9
+[26-Apr-2017 14:58:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '104.40.7.133' (4)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=104....', 'root', 'P@$', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[26-Apr-2017 15:08:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '104.40.7.133' (4)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=104....', 'root', 'P@$', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user.php(15): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[26-Apr-2017 15:09:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '104.40.7.133' (4)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=104....', 'root', 'P@$', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:52:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_root'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:52:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalentapp.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:52:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_root'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:53:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_root'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:53:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_root'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:55:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host '192.185.48.208:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=192....', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:56:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_root'@'localhost' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=loca...', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:57:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_root'@'localhost' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=loca...', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[27-Apr-2017 16:58:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_root'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=192....', 'subwayta_root', 'LTrain17', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[01-May-2017 09:00:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_web'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=192....', 'subwayta_web', 'WfhMgRhXv&Vz', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[01-May-2017 09:00:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_web'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=192....', 'subwayta_web', 'WfhMgRhXv&Vz', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[01-May-2017 09:02:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_web'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=192....', 'subwayta_web', 'WfhMgRhXv&Vz', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[01-May-2017 09:02:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_web'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=192....', 'subwayta_web', 'WfhMgRhXv&Vz', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[01-May-2017 09:02:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_web'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=192....', 'subwayta_web', 'WfhMgRhXv&Vz', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[01-May-2017 09:03:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'subwayta_web'@'192.185.48.208' (using password: YES)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=192....', 'subwayta_web', 'WfhMgRhXv&Vz', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[02-May-2017 18:33:00 UTC] PHP Deprecated:  Function split() is deprecated in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/report_events.php on line 26
+[03-May-2017 10:28:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'subwaytalent-dev.document_template' doesn't exist' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(58): Database->execute()
+#2 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/email_notification.php(76): Database->resultset()
+#3 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[03-May-2017 17:02:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'albernabe@gmail.com' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user.php(44): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[03-May-2017 17:02:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'albernabe@gmail.com' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user.php(44): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[03-May-2017 17:14:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'albernabe@gmail.com' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile.php(47): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-May-2017 04:27:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'subwayta_subwaytalent-dev.event' doesn't exist' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(58): Database->execute()
+#2 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php(64): Database->resultset()
+#3 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-May-2017 04:28:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'subwayta_subwaytalent-dev.user_login' doesn't exist' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(63): Database->execute()
+#2 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(34): Database->single()
+#3 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-May-2017 14:02:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_type.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-May-2017 14:02:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_type.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-May-2017 14:11:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_genre_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-May-2017 14:11:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_genre_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-May-2017 14:36:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_type.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[08-May-2017 15:39:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[08-May-2017 15:43:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[08-May-2017 15:44:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[08-May-2017 15:44:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[08-May-2017 15:44:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php(15): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[08-May-2017 15:44:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[08-May-2017 15:45:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/index.php(15): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[08-May-2017 15:45:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[08-May-2017 15:46:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2005] Unknown MySQL server host 'subwaytalent-new-instance.cynjmepbcwub.us-east-1.rds.amazonaws.com:3306' (0)' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:22
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(22): PDO->__construct('mysql:host=subw...', 'subwayuser', 'subwayuser1', Array)
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/login.php(12): Database->__construct()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 22
+[22-May-2017 16:20:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'subwaytalent.document_template' doesn't exist' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(58): Database->execute()
+#2 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/privacy_policy.php(34): Database->resultset()
+#3 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[23-May-2017 16:18:18 UTC] PHP Warning:  Division by zero in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile_talent_test.php on line 35
+[23-May-2017 16:18:18 UTC] PHP Warning:  Division by zero in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile_talent_test.php on line 35
+[23-May-2017 16:18:18 UTC] PHP Warning:  Division by zero in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile_talent_test.php on line 35
+[23-May-2017 16:18:18 UTC] PHP Warning:  Division by zero in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile_talent_test.php on line 35
+[23-May-2017 16:18:18 UTC] PHP Warning:  Division by zero in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile_talent_test.php on line 35
+[23-May-2017 16:18:18 UTC] PHP Warning:  Division by zero in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile_talent_test.php on line 35
+[23-May-2017 16:18:18 UTC] PHP Warning:  Division by zero in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile_talent_test.php on line 35
+[23-May-2017 16:18:18 UTC] PHP Warning:  Division by zero in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile_talent_test.php on line 35
+[05-Jun-2017 14:00:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_login.date_created' in 'field list'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(58): Database->execute()
+#2 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_profile.php(36): Database->resultset()
+#3 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[06-Jun-2017 04:05:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_genre_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-Jun-2017 07:19:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_genre_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-Jun-2017 07:19:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_genre_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-Jun-2017 07:19:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_genre_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-Jun-2017 07:19:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_genre_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-Jun-2017 07:20:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_skill_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-Jun-2017 07:22:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_type.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-Jun-2017 07:22:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_type.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[07-Jun-2017 07:22:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_type.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 103
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:01 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 103
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 95
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userid' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 96
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'userType' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 97
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LastLoggedInDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 98
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 100
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'Id' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:35:15 UTC] PHP Warning:  Illegal string offset 'LockedOutDate' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/user_block_list.php on line 101
+[08-Jun-2017 03:37:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_skill_preference.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[09-Jun-2017 11:04:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php:46
+Stack trace:
+#0 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php(46): PDOStatement->execute()
+#1 /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/event_type.php(41): Database->execute()
+#2 {main}
+  thrown in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/classes/Database.php on line 46
+[23-Jun-2017 01:34:22 UTC] PHP Fatal error:  Class 'Stripe' not found in /home2/subwaytalent/public_html/subwaytalentapp.com/webadmin/make_payment_stripe.php on line 29

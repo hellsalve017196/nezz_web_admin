@@ -1,0 +1,2 @@
+#### Rule for Error Page - 404 ####
+ErrorDocument 404 http://webadmin.subwaytalentapp.com/errors/404.html
