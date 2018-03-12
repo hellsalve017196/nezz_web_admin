@@ -210,3 +210,23 @@ else if(isset($_POST['swap_1']) and isset($_POST['swap_2']))
 
 
 }
+else if(isset($_POST['video_swap_1']) and isset($_POST['video_swap_2']))
+{
+    $swap_1 = $_POST["video_swap_1"];
+    $swap_2 = $_POST["video_swap_2"];
+
+    if($swap_1 != '' and $swap_2 != '')
+    {
+        $Database->query("update videos a
+ inner join videos b on a.v_id <> b.v_id
+   set a.v_title = b.v_title,
+       a.v_src = b.v_src
+ where a.v_id in ($swap_1,$swap_2) and b.v_id in ($swap_1,$swap_2)
+");
+
+
+        echo "1";
+    }
+
+
+}

@@ -43,11 +43,13 @@ $database->query("SELECT * FROM (
   LEFT JOIN user_account ON user_login.userid = user_account.userId
   WHERE user_login.role_name = 'USER'".(isset($id) ? ($id > 0 ? " AND Id = :Id" : "") : "").
     " ORDER BY date_created DESC) AS profile
-  WHERE ".($type == "P" ? "eventCount > 0" : "eventCount = 0").";");
+  ");
 
 if(isset($id)) { if ($id > 0) { $database->bind(':Id', $id); } }
 
 $list = $database->resultset();
+
+
 if(isset($id)) { if ($id > 0 && $database->rowCount() == 1) {$list = $list[0];} }
 if(isset($get["a"])) {
     switch (strtoupper($get["a"])) {
@@ -100,7 +102,7 @@ Basic (First Name, Last Name, City, State, Genre, & Skills).
 Gallery (1 Video link, 1 Audio sample).
 About (Profile Image, Username, & Bio). 
 */
-$checkArray = array("firstName", "lastName", "email", "mobileNumber", "rate","featured", "location", "cityStateId", "bio", "profilePic", "talentName", "profilePicTalent", "videoSample", "audioSample", "genreCount", "skillCount");
+$checkArray = array("firstName", "lastName", "email",  "location", "profilePic");
 
 function RenderProfileCompleteness ($checkArray, $items, $size = "progress_sm") {
     $tooltip = "";
@@ -196,61 +198,10 @@ function CheckProfileCompleteness($checkArray, $items) {
                                     <thead>
                                     <tr>
                                         <th>Profile<br/>Completeness</th>
+                                        <th>Bussiness Name</th>
                                         <th>Name</th>
-                                        <?php
-
-                                        if ($type == "T")
-                                        {
-                                            echo "<th>Stage Name</th>";
-                                        }
-
-                                        ?>
-
-                                        <?php
-
-                                        if ($type == "T" or $type == "P")
-                                        {
-                                            echo "<th>Phone</th>";
-                                        }
-
-                                        ?>
-
                                         <th>Email</th>
-                                        <th>Rating</th>
-                                        <?php
-                                        if ($type == "P") {
-                                            echo "<th>Events</th>";
-                                        }
-                                        ?>
-                                        <th>Date Registered</th>
-
-                                        <?php
-
-                                        if($type == "T")
-                                        {
-                                            ?>
-
-                                            <th>Featured</th>
-
-                                            <?php
-                                        }
-
-                                        ?>
-
-                                        <?php
-
-                                        if($type == "T")
-                                        {
-                                            ?>
-
-                                            <th>Hide</th>
-
-                                            <?php
-                                        }
-
-                                        ?>
-
-                                        <th>Action</th>
+                                        <th>Date Created</th>
                                     </tr>
                                     </thead>
 
@@ -267,77 +218,16 @@ function CheckProfileCompleteness($checkArray, $items) {
                                             if ($displayName == "") $displayName = $row["email"];
                                             if ($displayName == "") $displayName = $row["userId"];
                                             ?>
+                                            <td><?php echo $row["bussiness_name"]; ?></td>
                                             <td><?php echo $displayName; ?></td>
-                                            <?php
-                                            if ($type == "T") {
-                                                echo "<td>".$row["talentName"]."</td>";
-                                            }
-                                            ?>
-
-                                            <?php
-                                            if ($type == "T") {
-                                                echo "<td>".$row["mobileNumber"]."</td>";
-                                            }
-                                            ?>
 
                                             <td><a href="<?php echo $_SERVER['PHP_SELF']."?type=".$type."&id=".$row['Id']; ?>"><i class="fa fa-pencil"></i>&nbsp;<?php echo ($row["email"] == "" ? "NA" : $row["email"]); ?></a></td>
-                                            <td><?php echo ($row["rating"] == "" ? "NA" : $row["rating"]); ?></td>
-                                            <?php
-                                            if ($type == "P") {
-                                                echo "<td><a href='event_list.php?u=".$row["userId"]."'>".$row["eventCount"]."</a></td>";
-                                            }
-                                            ?>
-
-
-
 
 
                                             <td><time class="timeago" datetime="<?php echo $row['date_created']; ?>"><?php echo $row["date_created"]; ?></time></td>
 
 
-                                            <?php
 
-                                            if($type == "T")
-                                            {
-                                                $name = $row["featured"] == 1 ? "Featured" : "Not Featured";
-                                                $color = $row["featured"] == 1 ? "success" : "danger";
-
-                                                ?>
-
-                                                <td><button  class='btn btn-<?php echo $color;?> featured' id="<? echo $row["userId"].",".$row["featured"]; ?>">  <? echo $name;?>  </button></td>
-
-                                                <?
-
-                                            }
-
-                                            ?>
-
-
-
-                                            <?php
-
-                                            if($type == "T")
-                                            {
-
-                                                ?>
-
-                                                <td><button  class='btn btn-warning' id="<? echo $row['userId'] ?>" onclick="hide('<? echo $row['userId'] ?>')">  Hide </button></td>
-
-                                                <?
-
-                                            }
-
-                                            ?>
-
-
-
-                                            <td>
-                                                <?php if ($row["LockedOutDate"] != "" && $row["LockedOutDate"] != "0001-01-01 00:00:00") { ?>
-                                                    <a onclick="return confirm('Unblock this account?');" href="<?php echo $_SERVER['PHP_SELF'].'?a=unlock&id='.$row['Id']; ?>"><span class="fa fa-unlock"></span> Unblock Account</a><br/>blocked <time class="timeago" datetime="<?php echo $row['LockedOutDate']; ?>"><?php echo $row['LockedOutDate']; ?></time>
-                                                <?php } else { ?>
-                                                    <a onclick="return confirm('Block this account?');" href="<?php echo $_SERVER['PHP_SELF'].'?a=lock&id='.$row['Id']; ?>"><span class="fa fa-lock"></span> Block Account</a>
-                                                <?php } ?>
-                                            </td>
                                         </tr>
                                     <?php endforeach; ?>
                                     </tbody>
@@ -734,100 +624,6 @@ function CheckProfileCompleteness($checkArray, $items) {
         req.send("user_id="+user_id);
     };
 
-
-    $(document).ready(
-
-        function () {
-            console.log("ready to operate");
-
-            var featured_filter = false;
-
-            $.fn.dataTable.ext.search.push(
-                function( settings, data, dataIndex ) {
-
-                    if(featured_filter)
-                    {
-                        if($.trim(data[7]) == "Featured")
-                        {
-                            return true;
-                        }
-                        else {
-                            return false;
-                        }
-                    }
-                    else {
-                        return true;
-                    }
-
-                }
-            );
-
-
-            $("#featured_filter").on('click',function () {
-
-                featured_filter = !featured_filter;
-                table.draw();
-
-            });
-
-
-
-            $(".featured").on("click",function() {
-
-                alert("works");
-
-                data = $(this).attr("id").split(",");
-                user_id = data["0"];
-                featured = data["1"];
-
-                var req = new XMLHttpRequest();
-
-                switch(featured)
-                {
-                    case '0':
-                        featured = '1';
-                        break;
-                    case '1':
-                        featured = '0';
-                        break;
-                    default:
-                        break;
-                }
-
-                current = $(this);
-
-                req.onreadystatechange = function()
-                {
-                    if(req.status == 200 && req.readyState == 4)
-                    {
-                        $(current).attr("id",user_id+","+featured);
-
-                        if(featured == '1')
-                        {
-                            $(current).attr('class','btn btn-success featured');
-                            $(current).html("Featured");
-                        }
-                        else {
-                            $(current).attr('class','btn btn-danger featured');
-                            $(current).html("Not Featured");
-                        }
-
-                    }
-                };
-
-                req.open("post","<?php echo constant("ROOT_URL"); ?>"+"new_features.php",false);
-                req.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-                req.send("user_id="+user_id+"&featured="+featured);
-
-
-
-            });
-
-
-
-        }
-
-    );
 
 
 </script>
